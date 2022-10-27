@@ -15,7 +15,7 @@ Caso queira criar uma nova aplicação React, basta copiar os conteúdos deste r
 ​
 Hoje vimos um pouco sobre o debugging, processo de encontrar e corrigir erros em aplicações. Neste exercício temos uma página similar a um perfil do linkedin, mas com vários erros.
 ​
-Durante a aula de hoje vocês conseguiram debugar uma página simples de post e comentário. No exercício de hoje à tarde vamos debugar um novo projeto.
+Durante a aula vocês conseguiram debugar uma página simples de post e comentário. Agora vamos debugar um novo projeto.
 ​
 # Exercício
 ​
